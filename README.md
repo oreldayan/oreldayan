@@ -1,6 +1,6 @@
 👋 Hi, I’m Orel Dayan
 
-- 📚 I’m a Software Engineering Graduate (B.Sc).
+- 📚 I’m a Software Engineering Graduated (B.Sc).
 - 🌱 I’m currently learning: Python, Java, JavaScript, ReactJS, HTML, CSS.
 - 📫 How to reach me: oreld321@gmail.com
 
